@@ -386,6 +386,7 @@ body{
     line-height: 1;
         object-fit: cover;
     object-position: center;
+    width:100%;
 }
 
 .item active, .item{
