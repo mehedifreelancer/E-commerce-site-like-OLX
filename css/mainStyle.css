@@ -384,7 +384,8 @@ body{
 }
 .carousel-inner>.item>a>img, .carousel-inner>.item>img {
     line-height: 1;
-    height: 433px;
+        object-fit: cover;
+    object-position: center;
 }
 
 .item active, .item{
