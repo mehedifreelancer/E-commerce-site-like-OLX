@@ -86,12 +86,7 @@
     }
 }
 
-    @media (max-width: 676px) {
-        .carousel-inner>.item>a>img, .carousel-inner>.item>img {
-            height: 333px;
-        }
 
-    }
 
 @media (max-width: 742px) {
     .start-selling{
